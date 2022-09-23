@@ -1,0 +1,16 @@
+.wrapper{
+    display: flex;
+    align-items: center;
+
+}
+
+.content{
+    margin-right: 40px;
+
+}
+
+.delete{
+    height: 30px;
+    
+}
+
